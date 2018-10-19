@@ -1,0 +1,1 @@
+index.php is looking for images in this directory/folder.
