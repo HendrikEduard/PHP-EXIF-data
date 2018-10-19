@@ -1,0 +1,1 @@
+# PHP-EXIF-data
